@@ -79,4 +79,6 @@ class TestVarasto(unittest.TestCase):
         self.varasto.ota_varastosta(5)
         self.assertEqual(str(self.varasto), "saldo = 5, vielä tilaa 5")
 
+#this comment is for the purpose of causing an merge commit
+
 
