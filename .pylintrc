@@ -21,6 +21,6 @@ max-line-length: 80
 
 [REFACTORING]
 max-nested-blocks: 2
-too-many-statements: 15
+max-statements: 15
 max-complexity: 3
 [DESIGN]
