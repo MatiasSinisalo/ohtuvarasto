@@ -10,10 +10,6 @@ class Varasto:
         else:
             # täyteen ja ylimäärä hukkaan!
             self.saldo = tilavuus
-        if True: 
-            if False:
-                if True or False:
-                    print("this breaks pylint rules")
 
     # huom: ominaisuus voidaan myös laskea.
     # Ei tarvita erillistä kenttää viela_tilaa tms.
